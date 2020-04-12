@@ -1,5 +1,7 @@
 # DARKhash
 # selengkapnya di http://tools-ixid.ga
+# Encrypt atau decrypt
+# Tool 100% aman
 $pkg install git python2
 
 $pip2 install requests bs4
